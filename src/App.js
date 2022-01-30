@@ -5,10 +5,12 @@ import Login from './Components/Login';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React from 'react'
 import HomePage from './Components/HomePage';
+import Home from './Components/Home';
 function App() {
   return (
     <div>
       <Navbar/>
+      <HomePage/>
       <Router>
         <Routes>
           <Route path="/" element={<HomePage/>}/>
