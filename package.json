@@ -1,7 +1,7 @@
 {
   "name": "saltpe",
   "version": "0.1.0",
-  "homepage": "https://subhojit-dey1234.github.io/project/",
+  "homepage": "https://subhojit-dey1234.github.io/SaltPeProject/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
