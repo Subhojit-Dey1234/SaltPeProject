@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/project/static/css/main.3aa56de5.css",
-    "main.js": "/project/static/js/main.b5196f8c.js",
-    "static/js/787.616b9b6c.chunk.js": "/project/static/js/787.616b9b6c.chunk.js",
-    "static/media/Head.png": "/project/static/media/Head.4766e1abc9e085c61da3.png",
-    "static/media/girl.png": "/project/static/media/girl.884c0f1d373fbf2f0371.png",
-    "index.html": "/project/index.html",
-    "main.3aa56de5.css.map": "/project/static/css/main.3aa56de5.css.map",
-    "main.b5196f8c.js.map": "/project/static/js/main.b5196f8c.js.map",
-    "787.616b9b6c.chunk.js.map": "/project/static/js/787.616b9b6c.chunk.js.map"
+    "main.css": "/SaltPeProject/static/css/main.3aa56de5.css",
+    "main.js": "/SaltPeProject/static/js/main.e9dfabaa.js",
+    "static/js/787.616b9b6c.chunk.js": "/SaltPeProject/static/js/787.616b9b6c.chunk.js",
+    "static/media/Head.png": "/SaltPeProject/static/media/Head.4766e1abc9e085c61da3.png",
+    "static/media/girl.png": "/SaltPeProject/static/media/girl.884c0f1d373fbf2f0371.png",
+    "index.html": "/SaltPeProject/index.html",
+    "main.3aa56de5.css.map": "/SaltPeProject/static/css/main.3aa56de5.css.map",
+    "main.e9dfabaa.js.map": "/SaltPeProject/static/js/main.e9dfabaa.js.map",
+    "787.616b9b6c.chunk.js.map": "/SaltPeProject/static/js/787.616b9b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa56de5.css",
-    "static/js/main.b5196f8c.js"
+    "static/js/main.e9dfabaa.js"
   ]
 }
