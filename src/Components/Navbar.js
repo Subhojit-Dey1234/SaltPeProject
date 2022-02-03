@@ -4,8 +4,8 @@ import "../App.css";
 export default function Navbar() {
 	const [isvisible, setIsVisible] = useState(true);
 	window.onresize = function (e) {
-		console.log(e.target.outerWidth);
-		if (e.target.outerWidth < 1231) {
+		if (e.target.innerWidth < 1231) {
+			console.log("Hello")
 			setIsVisible(false);
 		} else {
 			setIsVisible(true);
@@ -13,7 +13,6 @@ export default function Navbar() {
 	};
 
 	useEffect(()=>{
-		console.log(window.innerWidth)
 		if(window.innerWidth < 1231){
 			setIsVisible(false)
 		}
@@ -21,6 +20,10 @@ export default function Navbar() {
 			setIsVisible(true)
 		}
 	},[])
+
+
+
+
 	return (
 		<div>
 			<div className="hamburger" onClick={(e) => setIsVisible(!isvisible)}>
