@@ -5,7 +5,6 @@ export default function Navbar() {
 	const [isvisible, setIsVisible] = useState(true);
 	window.onresize = function (e) {
 		if (e.target.innerWidth < 1231) {
-			console.log("Hello")
 			setIsVisible(false);
 		} else {
 			setIsVisible(true);
